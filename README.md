@@ -1,5 +1,11 @@
 ### Hi there 👋
+
+# 💻 Tech Stack:
+
 ![PippiF's Stats](https://github-readme-stats.vercel.app/api?username=PippiF&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+
+![PippiF's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PippiF&theme=tokyonight&hide_border=true)
 
 <!--
 **PippiF/PippiF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
